@@ -1,0 +1,9 @@
+C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\bin\x86\Release\ufr-signer.exe.config
+C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\bin\x86\Release\ufr-signer.exe
+C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\bin\x86\Release\ufr-signer.pdb
+C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Release\uFRSigner.frmMain.resources
+C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Release\uFRSigner.Properties.Resources.resources
+C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Release\ufr-signer.csproj.GenerateResource.cache
+C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Release\ufr-signer.csproj.CoreCompileInputs.cache
+C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Release\ufr-signer.exe
+C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Release\ufr-signer.pdb
