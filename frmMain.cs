@@ -348,7 +348,14 @@ namespace uFRSigner
                 if (status != DL_STATUS.UFR_OK)
                     throw new Exception(uFCoder.GetErrorDescription(status));
 
-                GetECPublicKeyFromCard();
+                DL_STATUS get_status = GetECPublicKeyFromCard();
+
+                if(get_status != DL_STATUS.UFR_OK)
+                {
+                    uFCoder.s_block_deselect(100);
+                    uFR_Selected = false;
+                    return;
+                }
             }
             catch (Exception ex)
             {
@@ -362,6 +369,11 @@ namespace uFRSigner
                     MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     if (status == DL_STATUS.UFR_NO_CARD) ;
                 }
+
+                uFCoder.s_block_deselect(100);
+                uFR_Selected = false;
+
+                return;
             }
             finally
             {

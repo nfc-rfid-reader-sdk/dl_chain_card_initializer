@@ -7,3 +7,12 @@ C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Release\ufr-sign
 C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Release\ufr-signer.csproj.CoreCompileInputs.cache
 C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Release\ufr-signer.exe
 C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Release\ufr-signer.pdb
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\bin\x86\Release\ufr-signer.exe.config
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\bin\x86\Release\ufr-signer.exe
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\bin\x86\Release\ufr-signer.pdb
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\obj\x86\Release\uFRSigner.frmMain.resources
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\obj\x86\Release\uFRSigner.Properties.Resources.resources
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\obj\x86\Release\ufr-signer.csproj.GenerateResource.cache
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\obj\x86\Release\ufr-signer.csproj.CoreCompileInputs.cache
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\obj\x86\Release\ufr-signer.exe
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\obj\x86\Release\ufr-signer.pdb

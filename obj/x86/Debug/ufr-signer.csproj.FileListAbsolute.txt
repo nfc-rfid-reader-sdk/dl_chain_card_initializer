@@ -8,3 +8,13 @@ C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Debug\ufr-signer
 C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Debug\ufr-signer.exe
 C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Debug\ufr-signer.pdb
 C:\Users\Konferencija\Desktop\LOYALTY SIGNER\ufr_signer\obj\x86\Debug\ufr-signer.csprojAssemblyReference.cache
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\bin\x86\Debug\ufr-signer.exe.config
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\bin\x86\Debug\ufr-signer.exe
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\bin\x86\Debug\ufr-signer.pdb
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\obj\x86\Debug\ufr-signer.csprojAssemblyReference.cache
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\obj\x86\Debug\uFRSigner.frmMain.resources
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\obj\x86\Debug\uFRSigner.Properties.Resources.resources
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\obj\x86\Debug\ufr-signer.csproj.GenerateResource.cache
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\obj\x86\Debug\ufr-signer.csproj.CoreCompileInputs.cache
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\obj\x86\Debug\ufr-signer.exe
+C:\Users\Konferencija\Desktop\REPOI BLOCKCHAIN\dl_chain_card_initializer\obj\x86\Debug\ufr-signer.pdb

@@ -38,10 +38,10 @@
             this.EmailTB = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.PhoneNumberTB = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
+            this.PhoneNumberTB = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // button1
@@ -127,13 +127,6 @@
             this.label5.TabIndex = 9;
             this.label5.Text = "Phone number :";
             // 
-            // PhoneNumberTB
-            // 
-            this.PhoneNumberTB.Location = new System.Drawing.Point(129, 192);
-            this.PhoneNumberTB.Name = "PhoneNumberTB";
-            this.PhoneNumberTB.Size = new System.Drawing.Size(324, 20);
-            this.PhoneNumberTB.TabIndex = 10;
-            // 
             // label6
             // 
             this.label6.AutoSize = true;
@@ -164,15 +157,22 @@
             this.label7.TabIndex = 13;
             this.label7.Text = "Please change your PIN after storing certificate into card.";
             // 
+            // PhoneNumberTB
+            // 
+            this.PhoneNumberTB.Location = new System.Drawing.Point(129, 192);
+            this.PhoneNumberTB.Name = "PhoneNumberTB";
+            this.PhoneNumberTB.Size = new System.Drawing.Size(324, 20);
+            this.PhoneNumberTB.TabIndex = 14;
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(474, 319);
+            this.Controls.Add(this.PhoneNumberTB);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.PhoneNumberTB);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.EmailTB);
@@ -205,10 +205,10 @@
         private System.Windows.Forms.TextBox EmailTB;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox PhoneNumberTB;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TextBox PhoneNumberTB;
     }
 }
 
